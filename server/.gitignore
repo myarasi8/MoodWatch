@@ -1,0 +1,4 @@
+/node_modules
+
+# keys file
+/config/keys.js
